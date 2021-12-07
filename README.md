@@ -1,2 +1,2 @@
 # SampleMVPAndroidJava
-this repository basic of MVP design pattern in android project java
+this repository basic of MVP design pattern With View Binding in android project java

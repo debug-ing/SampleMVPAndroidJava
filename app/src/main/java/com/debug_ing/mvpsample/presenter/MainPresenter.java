@@ -6,6 +6,7 @@ public class MainPresenter implements MainContract.Presenter {
     MainContract.View view;
     public MainPresenter(MainContract.View _view) {
         view = _view;
+        view.init();
     }
 
     @Override
